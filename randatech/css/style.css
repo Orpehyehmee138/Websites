@@ -1,0 +1,60 @@
+body{
+	background:url(../img/escheresque.png); 
+	background-repeat:repeat;
+	background-attachment: fixed; 
+	margin-top: 4.7em;
+}
+#facebook{
+	position: fixed;
+	top:260px;
+	left:20px; 
+	z-index: 5;
+	height:35px;
+	width:35px;
+}
+#instagram{
+	position: fixed;
+	top:300px;
+	left:20px;
+	z-index:1;
+	height:35px;
+	width:35px;
+}
+#twitter{
+	position: fixed;
+	top:340px; 
+	left:20px; 
+	z-index: 5; 
+	height:35px; 
+	width:35px;
+}
+#whatsapp{
+	position: fixed; 
+	top:380px; 
+	left:20px; 
+	z-index: 5; 
+	height:35px; 
+	width:35px;
+}
+h1, h2, h4{
+	font-variant: small-caps;
+}
+.img{
+	height: 10em;
+}
+.rounded-circle{
+	height: 12em;
+}
+.clients{
+	height:150px;
+	max-width: 230px
+}
+nav{
+	opacity:0.9;
+}
+.nivoSlider{
+	margin-top: 1em;
+}
+p{
+	text-align: justify;
+}
